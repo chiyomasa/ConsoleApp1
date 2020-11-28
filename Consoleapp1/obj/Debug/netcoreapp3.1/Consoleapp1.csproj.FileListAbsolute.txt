@@ -1,0 +1,12 @@
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/bin/Debug/netcoreapp3.1/Consoleapp1.deps.json
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/bin/Debug/netcoreapp3.1/Consoleapp1.runtimeconfig.json
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/bin/Debug/netcoreapp3.1/Consoleapp1.runtimeconfig.dev.json
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/bin/Debug/netcoreapp3.1/Consoleapp1.dll
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/bin/Debug/netcoreapp3.1/Consoleapp1.pdb
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.csprojAssemblyReference.cache
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.AssemblyInfoInputs.cache
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.AssemblyInfo.cs
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.csproj.CoreCompileInputs.cache
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.dll
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.pdb
+/Users/chiyo/Projects/Consoleapp1/Consoleapp1/obj/Debug/netcoreapp3.1/Consoleapp1.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "n67FNECm6w51r4CG4gav+5a1Gh8vznNPY9MS4fHh/53KsnkJQonOjJgTfCF5FLAcFDH84A8KUB19GZI1f3Phig==",
+  "success": true,
+  "projectFilePath": "/Users/chiyo/Projects/Consoleapp1/Consoleapp1/Consoleapp1.csproj",
+  "expectedPackageFiles": [
+    "/Users/chiyo/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.8/microsoft.aspnetcore.app.ref.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
